@@ -6,7 +6,7 @@
 	text-align: center;
 	vertical-align: center;
 	background-size: cover;
-	padding-top: 25%;
+	padding-top: 15%;
 	color: ffffff;
 }
 
@@ -94,7 +94,12 @@ h4{
 	background-color:283645;
 }
 
-
+#bigpic:hover{
+	transform: scale(1.1);
+}
+#bigpic {
+	transition: all 1.0 ease 2s;
+}
 
 
 
