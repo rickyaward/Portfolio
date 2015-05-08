@@ -9,44 +9,17 @@
 	padding-top: 25%;
 	color: ffffff;
 }
-.row1{
-	text-align: center;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	background-color: f2f5f7;
-}
-.row2{
-	margin-top: 50px;
-	margin-bottom: 50px;
-	background-color: f2f5f7;
-}
+
 h1{
 	color:506a85;
 	font-weight: bold;
 }
 p{
-	color:70859b;
+	color:a3b1bf;
 }
-.container-fluid{
-	margin-right:30px; 
-	margin-left:30px;
-	margin-top: 90px;
-	margin-bottom: 90px;
-	background-color: f2f5f7;
-}
+
 .owlcarousel{
 	display: inline-block;
-}
-.container-fluid1{
-	margin-right:30px; 
-	margin-left:30px;
-	margin-top: 90px;
-	margin-bottom: 90px;
-	background-color: 2f4052;
-	color: white;
-}
-.containerf{
-	background-color: 283645;
 }
 .my-btn {
   	border: 10px, 10px, 10px, 10px;
@@ -79,10 +52,60 @@ font-family:arial;
 	border-width: 1px;
 
 }
-.row3{
+
+
+#BeClRe{
 	text-align: center;
-	background-color: white;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
+#icon-three{
+	padding-bottom: 50px;
+	padding-top: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#bigpart{
+	padding-bottom: 50px;
+	padding-top: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	background-color: f2f5f7;
+}
+#work{
+	padding-bottom: 50px;
+	padding-top: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+#footerone{
+	background-color:2f4052;
+}
+
+h4{
+	color: white;
+}
+#footertwo{
+	background-color:283645;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
